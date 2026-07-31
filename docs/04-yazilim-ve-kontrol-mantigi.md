@@ -8,7 +8,7 @@ görevi üstlenen yazılım bileşenlerini ele alıyoruz.
 ## Yardımcı Bilgisayar
 
 <p align="center">
-  <img src="images/04-yazilim/yardimci-bilgisayar.png" width="280" alt="Yardımcı bilgisayar örnekleri">
+  <img src="images/06-gemstone-mimarisi/t3-gemstone-o1.png" width="460" alt="Yardımcı bilgisayar örnekleri">
 </p>
 
 Ana bilgisayar (uçuş kartı) yanında veya onunla birlikte çalışan,
