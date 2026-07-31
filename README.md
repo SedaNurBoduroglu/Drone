@@ -31,7 +31,8 @@
 - Aviyonik ve güç sistemleri: motor/ESC/pervane seçimi, batarya hesaplamaları
 - Yazılım ve kontrol mantığı: sensör verisi, PID algoritması, otopilot yazılımı
 - Parça seçimi, montaj ve uçtan uca tasarım süreci
-- T3 Gemstone O1 kartı üzerinde ArduPilot ile aviyonik mimarisi ve örnek yapılandırmalar
+- T3 Gemstone O1 kartı üzerinde ArduPilot ile aviyonik mimarisi
+- Örnek yapılandırmalar (BOM) ve ileri seviye eklentiler
 
 T3 Gemstone kartının kurulumu (imaj yazma, ilk açılış vb.) gibi genel
 konularda T3'ün resmi dokümantasyonuna yönlendiriyoruz:
@@ -51,19 +52,20 @@ odaklanır.
 ### Uygulama
 
 - [5. Parça Seçimi, Montaj ve Tasarım Süreci](docs/05-parca-secimi-montaj-ve-tasarim-sureci.md)
-- [6. T3 Gemstone O1 ile Aviyonik Mimarisi ve Örnek Yapılandırmalar](docs/06-t3-gemstone-o1-mimarisi-ve-ornek-yapilandirmalar.md)
+- [6. T3 Gemstone O1 ile Aviyonik Mimarisi](docs/06-t3-gemstone-o1-mimarisi.md)
+- [7. Örnek Yapılandırmalar ve İleri Seviye Eklentiler](docs/07-ornek-yapilandirmalar-ve-eklentiler.md)
 
 ### Referans
 
-- [7. Kaynakça](docs/07-kaynakca.md)
+- [8. Kaynakça](docs/08-kaynakca.md)
 
 ## Nasıl Okunmalı?
 
 Dokümanlar sırayla okunacak şekilde tasarlanmıştır; her dosyanın
 sonunda bir sonraki bölüme yönlendiren bir bağlantı bulunur. İlk kez
-bir İHA tasarlayacaklar için 1'den 6'ya kadar sırayla okumak,
+bir İHA tasarlayacaklar için 1'den 7'ye kadar sırayla okumak,
 doğrudan T3 Gemstone O1'e özgü donanım bilgisine ulaşmak isteyenler
-için ise doğrudan [6. bölüme](docs/06-t3-gemstone-o1-mimarisi-ve-ornek-yapilandirmalar.md)
+için ise doğrudan [6. bölüme](docs/06-t3-gemstone-o1-mimarisi.md)
 geçmek önerilir.
 
 ## Katkı

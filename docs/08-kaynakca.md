@@ -1,4 +1,4 @@
-# 7. Kaynakça
+# 8. Kaynakça
 
 Bu dokümantasyon, aşağıdaki kaynaklardan derlenen iki eğitim
 sunumunun ("İHA Temelleri" ve "Sıfırdan Quadcopter Yapımı", Seda Nur

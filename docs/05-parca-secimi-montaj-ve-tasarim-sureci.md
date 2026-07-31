@@ -112,4 +112,4 @@ düzeydeki projeler için ideal bir altyapı sunar.
 ---
 
 Devam etmek için
-[06-t3-gemstone-o1-mimarisi-ve-ornek-yapilandirmalar.md](06-t3-gemstone-o1-mimarisi-ve-ornek-yapilandirmalar.md).
+[06-t3-gemstone-o1-mimarisi.md](06-t3-gemstone-o1-mimarisi.md).

@@ -98,7 +98,7 @@ uçuşu sağlayan ana yazılım (firmware) olur.
 
 T3 Gemstone O1 kartı üzerinde ArduPilot'un nasıl çalıştırıldığına dair
 somut bir örnek için
-[06-t3-gemstone-o1-mimarisi-ve-ornek-yapilandirmalar.md](06-t3-gemstone-o1-mimarisi-ve-ornek-yapilandirmalar.md)
+[06-t3-gemstone-o1-mimarisi.md](06-t3-gemstone-o1-mimarisi.md)
 bölümüne bakınız.
 
 ---
