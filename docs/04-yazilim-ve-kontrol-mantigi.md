@@ -101,6 +101,14 @@ somut bir örnek için
 [06-t3-gemstone-o1-mimarisi.md](06-t3-gemstone-o1-mimarisi.md)
 bölümüne bakınız.
 
+ArduPilot'un karta kurulumu iki şekilde yapılabilir: APT paket
+deposundan hazır paketin kurulması, ya da bu paket henüz
+yayınlanmamışsa kaynak koddan cross-compile (çapraz derleme) ile
+derlenip karta aktarılması. Bu kurulum sürecinin imaj yazmadan
+başlayıp çalışan bir binary'ye kadar adım adım anlatıldığı ayrı bir
+rehber hazırladık:
+[T3 Gemstone O1 — ArduPilot Kurulum ve Cross-Compile Rehberi](https://github.com/alitalhq/t3gemstone-ardupilot-docs).
+
 ---
 
 Devam etmek için [05-parca-secimi-montaj-ve-tasarim-sureci.md](05-parca-secimi-montaj-ve-tasarim-sureci.md).
