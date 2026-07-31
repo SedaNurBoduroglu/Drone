@@ -1,12 +1,40 @@
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t3gemstone/docs/main/logo/dark.png" width="40%" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t3gemstone/docs/main/logo/light.png" width="40%" />
+        <img alt="T3 Foundation" src="https://raw.githubusercontent.com/t3gemstone/docs/main/logo/light.png" width="40%" />
+    </picture>
+</p>
+
 # T3 Gemstone İHA — Eğitim ve Yapım Dokümantasyonu
 
-T3 Gemstone kartı kullanılarak bir İnsansız Hava Aracı (İHA/drone)
-tasarlamak ve inşa etmek isteyenler için hazırlanmış eğitim
-dokümantasyonu. Bu doküman, "İHA Temelleri" ve "Sıfırdan Quadcopter
-Yapımı" başlıklı iki eğitim sunumunun (Seda Nur Boduroğlu, Türkiye
-Teknoloji Takımı Vakfı) tek bir kaynakta birleştirilip
-genişletilmesiyle oluşturulmuştur. Orijinal sunum dosyalarına
-[kaynak-sunumlar](kaynak-sunumlar) klasöründen erişilebilir.
+<p align="center">
+  <a href="https://github.com/SedaNurBoduroglu/Drone"><img alt="Docs repo" src="https://img.shields.io/badge/Docs-repo-red.svg"></a>
+  <a href="kaynak-sunumlar"><img alt="Kaynak sunumlar" src="https://img.shields.io/badge/Kaynak-sunumlar-black.svg"></a>
+  <a href="https://docs.t3gemstone.org"><img alt="T3 Gemstone Docs" src="https://img.shields.io/badge/T3_Gemstone-docs-blue.svg"></a>
+</p>
+
+> T3 Gemstone kartı kullanılarak bir İnsansız Hava Aracı (İHA/drone)
+> tasarlamak ve inşa etmek isteyenler için hazırlanmış eğitim
+> dokümantasyonu. "İHA Temelleri" ve "Sıfırdan Quadcopter Yapımı"
+> başlıklı iki eğitim sunumunun (Seda Nur Boduroğlu, Türkiye Teknoloji
+> Takımı Vakfı) tek bir kaynakta birleştirilip genişletilmesiyle
+> oluşturulmuştur.
+
+## Hızlı Başlangıç
+
+- [1. Giriş: İHA Nedir, Türleri ve Temel Alt Sistemler](docs/01-giris-ve-iha-turleri.md)
+- [Tüm dokümanlar](docs)
+- [Orijinal sunumlar](kaynak-sunumlar)
+
+## Kapsam
+
+- İHA türleri ve İHA'nın temel alt sistemleri
+- Mekanik temeller: eksenler, bileşenler, itki-kuvvet dengesi, aerodinamik
+- Aviyonik ve güç sistemleri: motor/ESC/pervane seçimi, batarya hesaplamaları
+- Yazılım ve kontrol mantığı: sensör verisi, PID algoritması, otopilot yazılımı
+- Parça seçimi, montaj ve uçtan uca tasarım süreci
+- T3 Gemstone O1 kartı üzerinde ArduPilot ile aviyonik mimarisi ve örnek yapılandırmalar
 
 T3 Gemstone kartının kurulumu (imaj yazma, ilk açılış vb.) gibi genel
 konularda T3'ün resmi dokümantasyonuna yönlendiriyoruz:
@@ -40,14 +68,6 @@ bir İHA tasarlayacaklar için 1'den 6'ya kadar sırayla okumak,
 doğrudan T3 Gemstone O1'e özgü donanım bilgisine ulaşmak isteyenler
 için ise doğrudan [6. bölüme](docs/06-t3-gemstone-o1-mimarisi-ve-ornek-yapilandirmalar.md)
 geçmek önerilir.
-
-## Proje Özeti
-
-Bu doküman, döner kanat (quadcopter) bir İHA'nın uçtan uca tasarım
-sürecini kapsar: aracın hareketini tanımlayan eksenler ve itki-kuvvet
-dengesinden, motor/ESC/pervane/batarya seçim kriterlerine, PID tabanlı
-kontrol mantığından T3 Gemstone O1 kartı üzerinde ArduPilot çalıştıran
-somut aviyonik yapılandırmalara kadar uzanan bir kapsamı içerir.
 
 ## Katkı
 
