@@ -16,10 +16,7 @@
 
 > T3 Gemstone kartı kullanılarak bir İnsansız Hava Aracı (İHA/drone)
 > tasarlamak ve inşa etmek isteyenler için hazırlanmış eğitim
-> dokümantasyonu. "İHA Temelleri" ve "Sıfırdan Quadcopter Yapımı"
-> başlıklı iki eğitim sunumunun (Seda Nur Boduroğlu, Türkiye Teknoloji
-> Takımı Vakfı) tek bir kaynakta birleştirilip genişletilmesiyle
-> oluşturulmuştur.
+> dokümantasyonu.
 
 ## Hızlı Başlangıç
 
