@@ -1,15 +1,5 @@
 # T3 Gemstone İHA — Eğitim ve Yapım Dokümantasyonu
 
-<p>
-  <img src="docs/images/logos/t3-horizontal-color.png" alt="T3 Vakfı" height="48">
-  &nbsp;&nbsp;
-  <img src="docs/images/logos/teknofest-color.png" alt="Teknofest" height="48">
-  &nbsp;&nbsp;
-  <img src="docs/images/logos/deneyap-color.png" alt="Deneyap" height="48">
-  &nbsp;&nbsp;
-  <img src="docs/images/logos/mth-color.png" alt="Millî Teknoloji Hamlesi" height="48">
-</p>
-
 T3 Gemstone kartı kullanılarak bir İnsansız Hava Aracı (İHA/drone)
 tasarlamak ve inşa etmek isteyenler için hazırlanmış eğitim
 dokümantasyonu. Bu doküman, "İHA Temelleri" ve "Sıfırdan Quadcopter
